@@ -45,7 +45,6 @@ Aspiring Software Developer and 3rd-year B.Tech IT student with a strong foundat
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=varunbuilds79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
