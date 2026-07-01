@@ -5,13 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Varun+Kesarwani+%F0%9F%91%8B;Aspiring+Software+Developer;B.Tech+IT+Student;Passionate+about+building+scalable+solutions)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://linkedin.com/in/varunkesarwani">
     <img src="https://img.shields.io/badge/LinkedIn-Varun%20Kesarwani-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kesarwanivarun79@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kesarwanivarun79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-ID">
+  <a href="https://github.com/varunbuilds79">
     <img src="https://img.shields.io/badge/GitHub-Varun%20Kesarwani-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -48,10 +48,10 @@ Aspiring Software Developer and 3rd-year B.Tech IT student with a strong foundat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-ID&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=YOUR-GITHUB-ID&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=varunbuilds79&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunbuilds79&theme=tokyonight&hide_border=true&layout=donut" />
 <br>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-ID&theme=tokyonight&hide_border=true&layout=donut" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=varunbuilds79&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -61,11 +61,9 @@ Aspiring Software Developer and 3rd-year B.Tech IT student with a strong foundat
 
 <div align="center">
 
-[![Varun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-ID&bg_color=1a1b27&color=7c83fd&line=7c83fd&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR-GITHUB-ID)
+[![Varun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunbuilds79&bg_color=1a1b27&color=7c83fd&line=7c83fd&point=ffffff&area=true&hide_border=true)](https://github.com/varunbuilds79)
 
 </div>
-
----
 
 <div align="center">
 
